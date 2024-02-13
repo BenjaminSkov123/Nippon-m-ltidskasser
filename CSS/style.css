@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    margin: 0;
+  }
+  
+  /* Header/Logo Title */
+  .header {
+    padding: 5px;
+    text-align: left;
+    background: #750000;
+    color: white;
+    font-size: 8px;
+  }
+.Logo{
+    width: 85px;
+    margin: 0;
+    
+}
+.Menu-bar{
+display: inline;
+margin: auto;
+font-size: 16px;
+position: absolute;
+
+}
+.a{
+    text-align: center;
+}
